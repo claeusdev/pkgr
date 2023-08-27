@@ -1,3 +1,1 @@
-module.exports = {
-  hello: function () {},
-};
+export { useDemo } from "./useDemo";
